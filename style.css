@@ -1,0 +1,33 @@
+body{
+    height: 100%;
+    margin: 0;
+    background-color: #E9ECEF;
+}
+.logo-color{
+    color: #a0214f;
+}
+.header-color{
+    color: #cd577c;
+}
+.header-color2{
+    color: #7031ba;
+}
+.fs-md{
+    font-size: 17px;
+}
+header a{
+    color: white;
+}
+header a:hover{
+    text-decoration: none;
+    color: gray;
+}
+.bg-section{
+    background-color: #E9ECEF;
+}
+.yellow{
+    color: #b48f28;
+}
+.myU1{
+    display: inline-block;
+}
